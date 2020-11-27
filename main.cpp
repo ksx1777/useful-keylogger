@@ -2,8 +2,6 @@
 
 using namespace std;
 
-short running = TRUE;
-
 KEYLIST unrecogKeys[] = {
     {"<BACKSPACE>", VK_BACK},
     {"<ENTER>", VK_RETURN},
